@@ -33,11 +33,11 @@ A static portfolio page created with just HTML and CSS.
   
  
  #### All the images used in mycvproject do not belong to me, I specified the author/sources below:
-- background mountain image: <div>Icons made by <a href="https://www.flaticon.com/authors/vectors-market" title="Vectors Market">Vectors Market</a> from <a href="https://www.flaticon.com/"    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+- [background mountain image](https://banner2.kisspng.com/20180303/dhe/kisspng-summer-illustration-vector-cartoon-mountains-5a9ae78fbbb254.7981664615201012637688.jpg): <div>Icons made by <a href="https://www.flaticon.com/authors/vectors-market" title="Vectors Market">Vectors Market</a> from <a href="https://www.flaticon.com/"    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
  
-- [techSkill-image](https://www.flaticon.com/free-icon/programming_1485287#term=web%20programming&page=2&position=14)<div>Icons made by <a href="https://www.flaticon.com/authors/flat-icons" title="Flat Icons">Flat Icons</a> from <a href="https://www.flaticon.com/"  title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"   title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+- [techSkill-image](https://www.flaticon.com/free-icon/programming_1485287#term=web%20programming&page=2&position=14):<div>Icons made by <a href="https://www.flaticon.com/authors/flat-icons" title="Flat Icons">Flat Icons</a> from <a href="https://www.flaticon.com/"  title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"   title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
 
-- [screen-coding image](https://image.flaticon.com/icons/svg/314/314318.svg)<div>Icons made by <a href="https://www.flaticon.com/authors/vectors-market" title="Vectors Market">Vectors Market</a> from <a href="https://www.flaticon.com/"    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+- [screen-coding image](https://image.flaticon.com/icons/svg/314/314318.svg):<div>Icons made by <a href="https://www.flaticon.com/authors/vectors-market" title="Vectors Market">Vectors Market</a> from <a href="https://www.flaticon.com/"    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
 
 - [cloud-image created by Goescat Wei](https://www.iconfinder.com/iconsets/weather-344)
 - [avatar-girl icon created by Laura Reen](https://www.iconfinder.com/icons/4043250/avatar_child_girl_kid_icon)
