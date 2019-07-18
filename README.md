@@ -1,5 +1,6 @@
 ## My CV project
 A static portfolio page created with just HTML and CSS.
+project link - (https://mihroban.github.io/mycvproject/)
 
 ### What you need to create this portoflio page?
 1. An Editor (Atom, sublime or NotePad++)
